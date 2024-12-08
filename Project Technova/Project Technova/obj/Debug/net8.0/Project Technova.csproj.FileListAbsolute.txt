@@ -1,0 +1,14 @@
+C:\Users\faroo\Desktop\Project Technova\bin\Debug\net8.0\Project Technova.exe
+C:\Users\faroo\Desktop\Project Technova\bin\Debug\net8.0\Project Technova.deps.json
+C:\Users\faroo\Desktop\Project Technova\bin\Debug\net8.0\Project Technova.runtimeconfig.json
+C:\Users\faroo\Desktop\Project Technova\bin\Debug\net8.0\Project Technova.dll
+C:\Users\faroo\Desktop\Project Technova\bin\Debug\net8.0\Project Technova.pdb
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\Project Technova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\Project Technova.AssemblyInfoInputs.cache
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\Project Technova.AssemblyInfo.cs
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\Project Technova.csproj.CoreCompileInputs.cache
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\Project Technova.dll
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\refint\Project Technova.dll
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\Project Technova.pdb
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\Project Technova.genruntimeconfig.cache
+C:\Users\faroo\Desktop\Project Technova\obj\Debug\net8.0\ref\Project Technova.dll
